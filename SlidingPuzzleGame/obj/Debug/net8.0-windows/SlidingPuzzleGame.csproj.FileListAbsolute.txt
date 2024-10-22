@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\SlidingPuzzleGame\SlidingPuzzleGame\bin\Debug\net8.0-windows\SlidingPuzzleGame.exe
+C:\Users\user\Desktop\SlidingPuzzleGame\SlidingPuzzleGame\bin\Debug\net8.0-windows\SlidingPuzzleGame.deps.json
+C:\Users\user\Desktop\SlidingPuzzleGame\SlidingPuzzleGame\bin\Debug\net8.0-windows\SlidingPuzzleGame.runtimeconfig.json
+C:\Users\user\Desktop\SlidingPuzzleGame\SlidingPuzzleGame\bin\Debug\net8.0-windows\SlidingPuzzleGame.dll
+C:\Users\user\Desktop\SlidingPuzzleGame\SlidingPuzzleGame\bin\Debug\net8.0-windows\SlidingPuzzleGame.pdb
+C:\Users\user\Desktop\SlidingPuzzleGame\SlidingPuzzleGame\obj\Debug\net8.0-windows\SlidingPuzzleGame.Form1.resources
+C:\Users\user\Desktop\SlidingPuzzleGame\SlidingPuzzleGame\obj\Debug\net8.0-windows\SlidingPuzzleGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SlidingPuzzleGame\SlidingPuzzleGame\obj\Debug\net8.0-windows\SlidingPuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SlidingPuzzleGame\SlidingPuzzleGame\obj\Debug\net8.0-windows\SlidingPuzzleGame.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SlidingPuzzleGame\SlidingPuzzleGame\obj\Debug\net8.0-windows\SlidingPuzzleGame.AssemblyInfo.cs
+C:\Users\user\Desktop\SlidingPuzzleGame\SlidingPuzzleGame\obj\Debug\net8.0-windows\SlidingPuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SlidingPuzzleGame\SlidingPuzzleGame\obj\Debug\net8.0-windows\SlidingPuzzleGame.dll
+C:\Users\user\Desktop\SlidingPuzzleGame\SlidingPuzzleGame\obj\Debug\net8.0-windows\refint\SlidingPuzzleGame.dll
+C:\Users\user\Desktop\SlidingPuzzleGame\SlidingPuzzleGame\obj\Debug\net8.0-windows\SlidingPuzzleGame.pdb
+C:\Users\user\Desktop\SlidingPuzzleGame\SlidingPuzzleGame\obj\Debug\net8.0-windows\SlidingPuzzleGame.genruntimeconfig.cache
+C:\Users\user\Desktop\SlidingPuzzleGame\SlidingPuzzleGame\obj\Debug\net8.0-windows\ref\SlidingPuzzleGame.dll
